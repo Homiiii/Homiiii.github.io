@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jun 2022 12:55:53 +0800</lastBuildDate><atom:link href="https://homiiii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
+      <title>心得</title>
       <link>https://homiiii.github.io/post/blog/</link>
       <pubDate>Mon, 27 Jun 2022 12:55:53 +0800</pubDate>
       
       <guid>https://homiiii.github.io/post/blog/</guid>
-      <description>wsdsz</description>
+      <description>我在使用开源软件并托管博客的过程中并不顺利，最大的难点就是下载博客主题，我查了好多文章还有网站，才终于调试好，其他的步骤我主要是跟着视频里一步步来，很顺利就完成了。</description>
     </item>
     
   </channel>
